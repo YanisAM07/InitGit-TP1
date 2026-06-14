@@ -15,8 +15,7 @@ TP d'initiation à Git et GitHub — Travail Collaboratif BUT Informatique 1ère
 git clone https://github.com/[pseudo]/InitGit-TP1.git
 cd InitGit-TP1
 pip install -r requirements.txt
-
-
+ 
 ## Utilisation
 
 python hello.py
